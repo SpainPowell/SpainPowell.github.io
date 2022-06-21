@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Blossom Data Solutions"
+excerpt: "12 week project leading 4 other students to help 2 founders of a startup to bring to life an app to help special education teaching staff to keep better track of student data and practice better techniques to increase the learning rates of their students. <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
