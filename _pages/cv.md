@@ -75,7 +75,7 @@ Skills
 
 Projects
 ======
-  <ul>{% for post in site.projects %}
+  <ul>{% for post in site.portfolio %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
