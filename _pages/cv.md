@@ -11,49 +11,76 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, University of California - Irvine, 2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep 2021 - Feb 2022: Seasonal Worker
+  * Costco
+  * Duties included: Customer Service, Stocking, Maintenance
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Nov 2018 - Feb 2019: Transition Assistant
+  * Retirement Benefits Group
+  * Duties included: Transferring client accounts, reporting progress and goals to supervisors
   
+* Oct 2017 - Mar 2018: Warehouse Manager
+  * Gatehouse Studios
+  * Duties included: Customer Service, Moving furniture, Co-ordinating with other companies
+
+* Jul 2017 - Aug 2017: Intern
+  * Retirement Benefits Group
+  * Duties included: Organizing files, filing paperwork
+
+* Jan 2017 - May 2017: Warehouse Worker
+  * Oceanside Health Products
+  * Duties included: Packaging products for sale on Amazon
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python
+  * Java
+  * Swift
+  * C++
+  * C
+* Database Skills
+  * SQL
+  * PostgreSQL
+  * MongoDB
+  * Couchbase
+  * Neo4j
+  * Apache Spark
+  * Cassandra
+  * Astra DB
+  * MySQL
+* Git
+* iOS development
+* Software Tools
+  * Xcode
+  * Figma
+  * VSCode
+  * GitBash
+  * GitDesktop
+  * Eclipse
+* Software Development Skills
+  * Agile
+  * Wireframing
+  * Use Cases
+  * Entity Relation Modeling
+  * Architecture Design
+  * Interaction Design
+  * Application Design
+  * Ethical Analysis
+  * Competitive Analysis
 
-Publications
+Projects
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Achievements
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* UCI New Venture Competition: Semi-finalist
+  * Created a concept paper and pitch focusing on engaging audience members' relatability of Special Education students
+  * Pitched Blossom Data Solutions to 8 local business leaders
