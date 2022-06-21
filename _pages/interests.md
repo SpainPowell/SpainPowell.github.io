@@ -5,5 +5,5 @@ excerpt: "Interests"
 author_profile: true
 ---
 
-Welcome to the clouds that go by in my head and the things I like to do on the weekends.
+Baseball? Basketball? Football? eSports? Valorant? CSGO? UFC? Off-roading? River? Desert? Beach? World Traveling?
 
