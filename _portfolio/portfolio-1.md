@@ -1,6 +1,6 @@
 ---
 title: "Blossom Data Solutions"
-excerpt: "12 week project leading 4 other students to help the founders of a startup bring to life an app to help special education teaching staff to keep better track of student data and practice better techniques to increase the learning rates of their students. <br/><img src='/images/LoginView.png'><img src='/images/StaffDashboardView.png'><img src='/images/GoalView.png'>"
+excerpt: "12 week project leading 4 other students to help the founders of a startup bring to life an app to help special education teaching staff to keep better track of student data and practice better techniques to increase the learning rates of their students. <br/><img src='/images/LoginView.jpg'><img src='/images/StaffDashboardView.png'><img src='/images/GoalView.png' height='600' width='200'>"
 collection: portfolio
 ---
 
