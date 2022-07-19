@@ -1,6 +1,6 @@
 ---
 title: "Show Me The Splits"
-excerpt: "Short python project using PyBaseball and working with MLB players statistics, specifically their "splits" or stats in certain scenarios to create a new general stat for starting pitchers."
+excerpt: "Short python project using PyBaseball and working with MLB players statistics, specifically their splits or stats in certain scenarios to create a new general stat for starting pitchers."
 collection: portfolio
 ---
 
