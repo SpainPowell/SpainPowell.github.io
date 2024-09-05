@@ -12,7 +12,13 @@ Welcome to my personal website!
 
 My Background and History
 ======
-I received my B.S. from the UC-Irvine School of Information and Computer Science. I have worked for Costco and Gatehouse where I raised my customer service skills to a new level. I also have worked at Retirement Benefits Group, where I got a real taste for working in a professional office setting and coordinated goals and progress with supervisors. I have participated in multiple sports and many teams throughout my life. I played baseball, football, and basketball growing up which has helped me to become a great teammate and often times a leader that others can depend on. To keep my competitive side occupied throughout college, I have participated in eSports teams for both CSGO and Valorant. Along with that, I played in a Softball league with my friends. 
+I received my Bachelors in Computer Science from UCI and am currently in a Data Science and Analytics Masters program at Clemson. 
+
+I currently work for FedEx as an engineer where I use corporate standard tools to plan day-to-day operations for several delivery locations. I work closely with development teams and stakeholders to ensure that our standard tools are enhanced to meet the needs of the frontline workers in the field. Along with that, I spend a lot of time working on corporate initiatives to launch in the field.
+
+I am also an analytics intern with the Clemson Baseball Team helping with their analytics and database management. In this role I have cleaned up their data importing, schemas, and generated new views to help with easier reporting. We also developed a Shiny app allowing the coaches to pull a scouting report on any player whenever they need it. This allowed for a much more automated process where the coaches always had analytics available to them instead of having to ask someone on the analytics team to pull a report and then bring it back to them later.
+
+ I have participated in multiple sports and many teams throughout my life. I played baseball, football, and basketball growing up which has helped me to become a great teammate and often times a leader that others can depend on. To keep my competitive side occupied throughout college, I have participated in eSports teams for both CSGO and Valorant. Along with that, I play in a Softball league with my friends. 
 
 <!-- Create content & metadata
 ------
