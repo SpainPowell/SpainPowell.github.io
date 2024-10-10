@@ -11,67 +11,42 @@ redirect_from:
 
 Education
 ======
+* M.S. in Data Science and Analytics, Clemson University, 2025
 * B.S. in Computer Science, University of California - Irvine, 2022
 
 Work experience
 ======
-* Sep 2021 - Feb 2022: Seasonal Worker
-  * Costco
-  * Duties included: Customer Service, Stocking, Maintenance
+* Sep 2024 - Present: Engineer
+* Jan 2023 - Sep 2024: Associate Engineer
+  * FedEx
+  * Duties included: Operational planning, corporate initiatives, writing technical requirements, communicating with stakeholders and development teams
 
-* Nov 2018 - Feb 2019: Transition Assistant
-  * Retirement Benefits Group
-  * Duties included: Transferring client accounts, reporting progress and goals to supervisors
-  
-* Oct 2017 - Mar 2018: Warehouse Manager
-  * Gatehouse Studios
-  * Duties included: Customer Service, Moving furniture, Co-ordinating with other companies
-
-* Jul 2017 - Aug 2017: Intern
-  * Retirement Benefits Group
-  * Duties included: Organizing files, filing paperwork
-
-* Jan 2017 - May 2017: Warehouse Worker
-  * Oceanside Health Products
-  * Duties included: Packaging products for sale on Amazon
+* Apr 2024 - Present: Analytics Intern
+  * Clemson Baseball Team
+  * Duties included: Database management, view creation to help reporting, and web app development to allow coaches to pull reports as needed
 
 Skills
 ======
-* Programming Languages
+* Programming & Databases
   * Python
-  * Java
-  * Swift
-  * C++
-  * C
-* Database Skills
+  * R
   * SQL
-  * PostgreSQL
-  * MongoDB
-  * Couchbase
-  * Neo4j
-  * Apache Spark
-  * Cassandra
-  * Astra DB
+  * Oracle Sql
+  * Teradata
+  * MS SQL
   * MySQL
 * Git
-* iOS development
+* Business Intelligence
+  * Tableau
+  * PowerBI
 * Software Tools
-  * Xcode
   * Figma
   * VSCode
   * GitBash
   * GitDesktop
-  * Eclipse
 * Software Development Skills
   * Agile
-  * Wireframing
-  * Use Cases
-  * Entity Relation Modeling
-  * Architecture Design
-  * Interaction Design
-  * Application Design
-  * Ethical Analysis
-  * Competitive Analysis
+  * Data Modeling
 
 Projects
 ======
